@@ -16,6 +16,7 @@ Before running the project, ensure you have the following dependencies installed
 - Go (Golang)
 - Docker
 - Docker Compose
+- Redis
 
 ## Getting Started
 
