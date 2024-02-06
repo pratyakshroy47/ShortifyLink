@@ -1,4 +1,4 @@
-# ShortifyMe - URL Shortening Service
+# ShortifyLink - URL Shortening Service
 
 This project is a URL shortening service implemented using Go Fiber and Redis. It allows users to shorten long URLs into shorter, more manageable links. Additionally, it provides a resolution mechanism to redirect short URLs back to their original long URLs.
 
